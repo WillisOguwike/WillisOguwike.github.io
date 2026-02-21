@@ -11,3 +11,15 @@
 
 **Dashboard Overview**
 ![Amazon](Amazon.png)
+
+ 
+## Project 2
+**Title:** SQL Data Manipulation Language-Employee_Data
+
+**SQL Code:** [Employee Data](https://github.com/WillisOguwike/WillisOguwike.github.io/blob/main/Employee_data.sql)
+
+**SQL Skills Used:**
+
+**Project Description:**
+
+**Technology used:** SQL server
