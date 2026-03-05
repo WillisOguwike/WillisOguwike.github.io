@@ -29,6 +29,7 @@
 
  
 ## Project 3
+
 **Title:** SQL Data Manipulation Language-Employee_Data
 
 **SQL Code:** [Employee Data](https://github.com/WillisOguwike/WillisOguwike.github.io/blob/main/Employee_data.sql)
@@ -40,4 +41,21 @@
 **Technology used:** SQL server
 
 
+## Project 4
+
+**Title:** [Data Jobs Dashboard](https://github.com/WillisOguwike/WillisOguwike.github.io/blob/main/Data%20Jobs%20dashboard.pbix)
+
+**Tools Used:** Power BI (slicers, button, drill-through, tables, power query editor, implicit measure)
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
+![Data Jobs](data_job.png)
+
+
+![Data Drill Down](data_job_drill_dowm.png)
+
+ 
 
