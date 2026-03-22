@@ -54,9 +54,23 @@
 **Dashboard Overview:**
 ![Data Jobs](data_job.png)
 
-**Dashboard Drill-down**
 
 ![Data Drill Down](data_job_drill_dowm.png)
+
+**Dashboard Drill-down**
+## Project 5
+
+**Title:** [Mobile Phone Addiction Dashboard](https://github.com/WillisOguwike/WillisOguwike.github.io/blob/main/Smartphone%20Usage%20Addiction%20Analysis.pbix)
+
+**Tools Used:** Power BI (slicers, button, drill-through, tables, power query editor, implicit measure)
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview** ![Mobile Phone Addiction](Phone_addiction.png)
+
+
 
  
 
